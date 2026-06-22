@@ -1,0 +1,4 @@
+Python developer with machine learning NLP pandas scikit-learn
+Java developer with spring boot microservices
+Data analyst skilled in SQL Excel Power BI
+AI engineer with deep learning NLP Python TensorFlow
